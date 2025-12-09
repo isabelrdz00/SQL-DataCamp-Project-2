@@ -44,3 +44,17 @@ Skills: HAVING filters, correlated subqueries, de-duplication logic.
 - Subqueries for correct aggregation
 - Filtering and ranking logic
 - Translating relational data into funding and impact insights
+  
+ ## _**Screenshots of the project**_
+ 
+<img width="973" height="572" alt="Screenshot 2025-12-09 at 5 18 37 p m" src="https://github.com/user-attachments/assets/54654e65-9157-45fa-bcb5-a04e1ee7df17" />
+
+<img width="859" height="297" alt="Screenshot 2025-12-09 at 5 18 48 p m" src="https://github.com/user-attachments/assets/e67f9cb5-4a89-4b43-ad81-99d481681066" />
+
+<img width="773" height="620" alt="Screenshot 2025-12-09 at 5 18 58 p m" src="https://github.com/user-attachments/assets/96853d18-a416-42a0-a5ef-590fd03dc3f7" />
+
+<img width="864" height="264" alt="Screenshot 2025-12-09 at 5 19 04 p m" src="https://github.com/user-attachments/assets/b2430440-8067-4061-86f5-8d851dc767b8" />
+
+
+
+  
